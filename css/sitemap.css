@@ -1,0 +1,191 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: #000000;
+    background-color: #000000;
+   background-image: url("https://media.timeout.com/images/103166146/image.jpg");
+   
+    /* background-image: url("https://gbc-cdn-public-media.azureedge.net/img24146.768x512.jpg"); */
+   
+    /* background-image: url("https://farm9.staticflickr.com/8834/18630499605_2494f82196_b.jpg"); */
+    /* background-image: url("https://www.thebaypenzance.co.uk/wp-content/themes/bay/images/header/9/6.jpg"); */
+    /* background-image: url("https://goodtimesjazzbar.com/wp-content/uploads/2017/10/contact-header.jpg"); */
+    /* background-image: url("http://www.glasshousenewcastle.co.uk/wp-content/uploads/2017/03/glass-house-food-menu-header.jpg"); */
+    /* background-image: url("https://t4.ftcdn.net/jpg/01/39/82/89/240_F_139828910_8yYI45TFrF4oEJ2ZgfOfP3f2daYyqn1p.jpg"); */
+    /* background-image: url("http://medias.photodeck.com/e7839801-7a15-4561-a254-4777d741f378/0083_DSC_6374_wqxga.jpg"); */
+    /* background-image: url("https://images.fineartamerica.com/images-medium-large-5/venice-rialto-bridge-at-night-black-and-white-melanie-viola.jpg"); */
+    /* background-image: url("https://images.fineartamerica.com/images-medium-large/black-and-white-venice-3-andrew-fare.jpg"); */
+    /* background-image: url("http://farm8.staticflickr.com/7022/6476758843_b1e9425b87_b.jpg"); */
+    /* background-image: url("http://farm3.static.flickr.com/2653/4004044826_e47959409e_b.jpg"); */
+    /* background-image: url("http://bobstrupatphotography.com/AllAlbums/Alb-Toronto%20Skyline/slides/3648-08G10x8.jpg"); */
+    /* background-image: url("https://www.kcalextra.com/kcal-content/uploads/2017/05/kcal-header.jpg"); */
+   
+    /* background-image: url("https://thecooperstavern.com/wp-content/uploads/main/031_VeggieSandwich.jpg"); */
+    /* background-image: url("https://manofmany.com/wp-content/uploads/2016/09/wpid-1180178.jpg"); */
+    /* background-image: url("https://evertsdal.com/wp-content/uploads/fine-dining3.jpg"); */
+    /* background-image: url("https://images.unsplash.com/photo-1520526790755-e31ace504b3f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=28a6d3d631189d5b0e52f8486e0d0064&auto=format&fit=crop&w=1500&q=80"); */
+    /* background-image: url("vitchakorn-koonyosying-527301-unsplash.jpg"); */
+    /* background-image:url("https://images.unsplash.com/photo-1520004745082-400d0949f387?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=74fab89466c435c40fc3c51968ac20c0&auto=format&fit=crop&w=800&q=60"); */
+    /* background-image: url("https://images.unsplash.com/photo-1494279844912-8aca7c106591?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6882bc35bd52e9edf0587d15253048e0&auto=format&fit=crop&w=800&q=60"); */
+    /* background-image: url("https://images.unsplash.com/photo-1471445281684-fdf28e036aa8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=88e5810c2f7367ad8611c0bfb6ede27d&auto=format&fit=crop&w=800&q=60"); */
+    /* background-image: url("https://www.edcinteractive.com//wp-content/uploads/2014/12/gallery1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.5; */
+    /* background-size: 100%; */
+
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#logo {
+    position: relative;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 2px;
+}
+#year {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5em;
+    color: #e7b30e;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.fa {
+    margin-right: 0.5em;
+    color: #e7b30e;
+    list-style-type: none;
+    margin-top: 0;
+}
+
+.container {
+    float:right;
+    position: relative;
+    z-index: 100;
+}
+
+.fa:hover {
+    /* color: #ffffff; */
+    color: #333333;
+}
+
+p {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5em;
+    color: #e7b30e;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.list {
+    color: #e7b30e;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-right: 2em;
+    background: none;
+    border-radius: 7px;
+    list-style-type: none;
+    display:inline-block;
+}
+
+.list li {
+    text-decoration: none;
+    color: #e7b30e;
+    display:inline-block;
+}
+
+.list a:hover{
+    /* color: #ffffff; */
+    color:#e7b30e;
+}
+
+.list1 {
+    display:inline-block;
+}
+
+.list2 {
+    /* border:1px solid #e7b30e; */
+    border:1px solid #000000;
+    border-radius: 7px;
+}
+
+.list {
+    position: relative;
+    display: inline-block;
+}
+
+a {
+    /* color: #e7b30e; */
+    color: #000000;
+    padding: 9px 13px;
+    text-decoration: none;
+    display: block;
+    outline: 0;
+    font-weight: bold;
+
+}
+
+a:hover {
+    background-color: none;
+    /* border: 1px solid #ffffff; */
+    border: 1px solid #e7b30e;
+    border-radius: 7px;
+    /* color: #ffffff; */
+    color: #e7b30e;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+.list:hover .list {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+button:focus {
+    outline:0;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 10px;
+    font-size:0.6em;
+    text-align: left;
+}
+
+/* .list-content {
+    display: none;
+    position: absolute;
+    min-width: 100px;
+    z-index: 1;
+    outline: 0;
+} */
+
+/* .list:hover .list-content {
+    display: block;
+} */
+
+
+
+
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    opacity: 0.7;
+    filter: alpha(opacity=90); 
+    border-radius: 7px;
+}
+
+div.transbox p {
+    margin: 2%;
+    font-weight: bold;
+    color: #000000;
+}

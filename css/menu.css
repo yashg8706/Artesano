@@ -1,0 +1,279 @@
+body {
+    /* font-family: 'Tangerine', cursive; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: #000000;
+    background-color: #f1f1f1;
+    background-image: url("https://gbc.blob.core.windows.net/media/img15097.jpg");
+    /* background-image: url("https://www.cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2016/08/24/Casterbridge_steak_tartare__pickled_vegetables___grain_mustard_mayonnaise3.jpg?itok=e_7LTn0U&c=37ad3d293c50a483b2f7e37e4940c5b8"); */
+    /* background-image: url("http://images.chiecthiavang.com/Images/Uploaded/Share/2017/03/27/2D274906912290todayplates14101teasetodayinlinelarge.jpg"); */
+
+    /* background-image: url("https://gbc-cdn-public-media.azureedge.net/img24760.jpg"); */
+    
+    /* background-image: url("https://d24wuq6o951i2g.cloudfront.net/img/events/id/204/2043070/assets/6b4.Credit-tuna.jpg"); */
+    
+    /* background-image: url("https://www.foodnewsfeed.com/sites/foodnewsfeed.com/files/story-images/summer-fancy-food-show-named-top-new-york-event.jpg"); */
+    /* background-image: url("https://www.edcinteractive.com//wp-content/uploads/2014/12/gallery1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#logo {
+    position: relative;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.fa {
+    margin-right: 0.5em;
+    color: #e7b30e;
+    list-style-type: none;
+    margin-top: 0;
+}
+
+.container {
+    float:right;
+    position: relative;
+    z-index: 100;
+}
+
+.fa:hover {
+    /* color: #ffffff; */
+    color: #333333;
+}
+
+#year {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5em;
+    color: #e7b30e;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.dropbtn {
+    /* color: #e7b30e; */
+    color: #000000;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-right: 2em;
+    /* border: 1px solid  #e7b30e; */
+    border: 1px solid  #000000;
+    background: none;
+    border-radius: 7px;
+    /* font-weight: bold; */
+
+}
+
+.dropbtn a {
+    text-decoration: none;
+    /* color: #e7b30e; */
+    color: #000000;
+    font-weight: bold;
+}
+
+.dropbtn a:hover{
+    /* color: #ffffff; */
+    color: #e7b30e;
+}
+.allDropDowns {
+    margin-left: 380px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 100px;
+    z-index: 1;
+    outline: 0;
+    background-color: #f1f1f1;
+}
+
+.dropdown-content a {
+    /* color: #e7b30e; */
+    color: #000000;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    outline: 0;
+}
+
+.dropdown-content a:hover {
+    /* background-color: #222222; */
+    /* border: 1px solid #ffffff; */
+    border: 1px solid #e7b30e;
+    border-radius: 7px;
+    /* color: #ffffff; */
+    color: #e7b30e;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    /* color: #ffffff;
+    border-color: #ffffff; */
+    color: #e7b30e;
+    border-color: #e7b30e;
+}
+
+button:focus {
+    outline:0;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 10px;
+    font-size:0.6em;
+    text-align: left;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    opacity: 0.7;
+    filter: alpha(opacity=90); 
+    border-radius: 7px;
+    padding: 5%;
+    padding-bottom: 15%;
+    padding-top: 2%;
+
+}
+
+div.transbox p {
+    /* margin: 2%; */
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #000000; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+    outline: 0;
+
+}
+
+input[type=submit] {
+    background-color: #777777;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: 0;
+
+}
+
+input[type=submit]:hover {
+    background-color: #666666;
+}
+
+.form {
+    /* margin-right: 200; */
+    border-radius: 5px;
+    background-color: #f3f2f2;
+    padding: 20px;
+    text-decoration: none;
+    outline: 0;
+}
+
+h3:hover {
+    color: #e7b30e;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2, h3 {
+    font-size: 1em;
+}
+
+div.transbox1 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    opacity: 0.7;
+    filter: alpha(opacity=90); 
+    border-radius: 7px;
+    padding: 5%;
+    padding-bottom: 4%;
+    padding-top: 2%;
+
+}
+
+#artesano {
+    font-size: 3em;
+    font-family: 'Tangerine', cursive;
+}
+
+#main {
+    /* border: 1px solid  #f1f1f1; */
+   /* box-shadow: 10px 10px #f1f1f1; */
+    height: 200px;
+}	
+    
+.grid-container {
+ display: inline-grid;
+ align-content: center;
+ grid-gap: 10px;
+ grid-template-columns: 180px 180px 180px 180px 180px;
+ grid-template-rows: auto auto auto auto auto;
+ justify-content: space-evenly;
+ padding: 10px;
+
+}
+.grid-item {
+ background-color: rgba(255, 255, 255, 0.8);
+ border: 1px solid #000000; 
+   border-radius: 7px;
+ padding: 20px;
+ font-size: 20px;
+ text-align: center;
+}
+/* .menu_list:hover {
+    color: #e7b30e;
+    border-color: #e7b30e;
+} */
+#main {
+   text-align:center;
+}
+
+#menu {
+    margin-left: 43%;
+    font-size: 4em;
+    font-family: 'Tangerine', cursive;
+}
+
+
+
+
+
+
+
+

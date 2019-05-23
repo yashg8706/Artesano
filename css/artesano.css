@@ -1,0 +1,238 @@
+body {
+    /* font-family: 'Tangerine', cursive; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: #000000;
+    background-color: #f1f1f1;
+
+    /* background-image: url("https://gbc-cdn-public-media.azureedge.net/img24760.jpg"); */
+    
+    /* background-image: url("http://cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2016/08/24/Casterbridge_steak_tartare__pickled_vegetables___grain_mustard_mayonnaise3.jpg?itok=e_7LTn0U&c=37ad3d293c50a483b2f7e37e4940c5b8"); */
+
+    /* background-image: url("https://www.reader.gr/sites/default/files/img9762.1426x713_1.jpg"); */
+
+    /* background-image: url("https://farm9.staticflickr.com/8834/18630499605_2494f82196_b.jpg"); */
+
+    /* background-image: url("image7.jpg"); */
+
+
+    background-image: url("https://gbc.blob.core.windows.net/media/img17179.jpg");
+
+
+    /* background-image: url("https://gninethree.files.wordpress.com/2015/05/fullsizerender-8.jpg"); */
+
+    /* background-image: url("https://gbc-cdn-public-media.azureedge.net/img30542.768x512.jpg"); */
+
+    /* background-image: url("https://d24wuq6o951i2g.cloudfront.net/img/events/id/204/2043070/assets/6b4.Credit-tuna.jpg"); */
+    
+    /* background-image: url("https://www.foodnewsfeed.com/sites/foodnewsfeed.com/files/story-images/summer-fancy-food-show-named-top-new-york-event.jpg"); */
+    /* background-image: url("https://www.edcinteractive.com//wp-content/uploads/2014/12/gallery1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    /* position: relative;
+    height: 100%;
+    width: 100%; */
+}
+
+#logo {
+    position: relative;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+#year {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5em;
+    color: #e7b30e;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.fa {
+    margin-right: 0.5em;
+    color: #e7b30e;
+    list-style-type: none;
+    margin-top: 0;
+}
+
+.container {
+    float:right;
+    position: relative;
+    z-index: 100;
+    margin-top:0;
+}
+
+.fa:hover {
+    /* color: #ffffff; */
+    color: #333333;
+}
+
+p {
+    font-family: 'Tangerine', cursive;
+    font-size: 1.5em;
+    color: #e7b30e;
+    margin-top: 0px;
+    margin-left: 2px;
+}
+
+.dropbtn {
+    /* color: #e7b30e; */
+    color: #000000;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-right: 2em;
+    /* border: 1px solid  #e7b30e; */
+    border: 1px solid  #000000;
+    background: none;
+    border-radius: 7px;
+    /* font-weight: bold; */
+
+}
+
+.dropbtn a {
+    text-decoration: none;
+    /* color: #e7b30e; */
+    color: #000000;
+    font-weight: bold;
+}
+
+.dropbtn a:hover{
+    /* color: #ffffff; */
+    color: #e7b30e;
+}
+.allDropDowns {
+    margin-left: 380px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 100px;
+    z-index: 1;
+    outline: 0;
+    background-color: #f1f1f1;
+}
+
+.dropdown-content a {
+    /* color: #e7b30e; */
+    color: #000000;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    outline: 0;
+}
+
+.dropdown-content a:hover {
+    /* background-color: #222222; */
+    /* border: 1px solid #ffffff; */
+    border: 1px solid #e7b30e;
+    border-radius: 7px;
+    /* color: #ffffff; */
+    color: #e7b30e;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    /* color: #ffffff;
+    border-color: #ffffff; */
+    color: #e7b30e;
+    border-color: #e7b30e;
+}
+
+button:focus {
+    outline:0;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 10px;
+    font-size:0.6em;
+    text-align: left;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    opacity: 0.7;
+    filter: alpha(opacity=90); 
+    border-radius: 7px;
+    padding: 5%;
+    padding-bottom: 18%;
+    padding-top: 2%;
+
+}
+
+div.transbox p {
+    /* margin: 2%; */
+    font-weight: bold;
+    color: #000000;
+}
+
+
+/* .navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  } */
+
+/* ul {
+    position: relative;
+    list-style-type: none; */
+    /* margin-top: 10%; */
+    /* margin-right: 5%; */
+    /* margin-left: 15%;
+    padding: 0;
+    overflow: hidden;
+    outline: 0;
+    color: #e7b30e;
+    
+} */
+
+/* #aboutUs, #eventsBooking, #menu, #specials, #contactUs, #locations, #gallery, #eventsBooking, #contest, #siteMap, #careers {
+    color: #e7b30e; */
+    /* font-size: 1.1em; */
+    /* padding: 15px; */
+    /* border-radius: 20px; */
+    /* border: solid; */
+/* }  */
+
+/* li {
+    position: relative;
+    float: left;
+    color: #e7b30e;
+} */
+
+/* li a {
+    position: relative;
+    display: block;
+    text-align: left;
+    /* padding: 14px 16px; */
+    /* text-decoration: none; */
+    /* outline:0; */
+    /* color: #ffffff; */
+    /* margin-right: 10px; */
+/* } */
+
+/* #aboutUs:hover, #specials:hover, #menu:hover, #gallery:hover, #locations:hover, #contactUs:hover, #eventsBooking:hover, #giftCards:hover, #contest:hover, #siteMap:hover, #careers:hover {
+    color: #ffffff;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #ffffff;
+} */
