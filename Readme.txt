@@ -1,6 +1,7 @@
 
 Application Name: Artesano Restaurant
 Developed By: Yash Gandhi, Azeb Khalid, Twen Mehartab and Tyvon
+Demo Link: https://artesianrestaurant.yashgandhi.ca/
 
 Brief Description:
 Artesano Restaurant is a team project where we developed italian website to demonstrate javacript fundamentals. 
