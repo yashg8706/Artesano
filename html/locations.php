@@ -2,7 +2,6 @@
   Developed by:- Yash Gandhi
   Purpose:- Locations of restaurent using integretion of google map api.
 -->
-<!DOCTYPE html>
 <html lang="en">
 	<head>
         <meta charset="utf-8">
@@ -29,28 +28,28 @@
 
                 <div class="allDropDowns">
                     <div class="dropdown">
-                        <a href="../index.html"><button class="dropbtn">Home</button></a>
+                        <a href="../index.php"><button class="dropbtn">Home</button></a>
                         </div>
                 <div class="dropdown">
-                        <a href="aboutUs.html"><button class="dropbtn">About Us</button></a>
+                        <a href="aboutUs.php"><button class="dropbtn">About Us</button></a>
                         <div class="dropdown-content">
-                          <a href="contactUs.html">Contact Us</a>
-                          <a href="locations.html">Locations</a>
-                          <a href="careers.html">Careers</a>
-                          <a href="sitemap.html">Site Map</a>
+                          <a href="contactUs.php">Contact Us</a>
+                          <a href="locations.php">Locations</a>
+                          <a href="careers.php">Careers</a>
+                          <a href="sitemap.php">Site Map</a>
                         </div>
                       </div>
                       <div class="dropdown">
-                            <a href="menu.html"><button class="dropbtn">Menu</button></a>
+                            <a href="menu.php"><button class="dropbtn">Menu</button></a>
                             <div class="dropdown-content">
-                              <a href="specials.html">Specials</a>
+                              <a href="specials.php">Specials</a>
                             </div>
                           </div>
                           <div class="dropdown">
-                                <a href="eventsBooking.html"><button class="dropbtn">Events/Booking</button></a>
+                                <a href="eventsBooking.php"><button class="dropbtn">Events/Booking</button></a>
                                 <div class="dropdown-content">
-                                  <a href="contest1.html">Contest</a>
-                                  <a href="giftCards.html">Gift Cards</a>
+                                  <a href="contest1.php">Contest</a>
+                                  <a href="giftCards.php">Gift Cards</a>
                                 </div>
                               </div>
             

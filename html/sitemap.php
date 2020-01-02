@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 	<head>
         <meta charset="utf-8">
@@ -25,30 +24,30 @@
                             <ul>
                                     <div class="list1"> 
                                         <div class="list"> 
-                                            <a href="../index.html" class="list2">Home</a>
+                                            <a href="../index.php" class="list2">Home</a>
                                             </div>
                                             </div>
                                         </ul>
                                             <ul>
                                             <div class="list">
-                                                    <a href="aboutUs.html" class="list2">About Us</a>
-                                                     <li> <a href="contactUs.html">Contact Us</a></li>
-                                                     <li> <a href="locations.html">Locations</a></li>
-                                                     <li> <a href="careers.html">Careers</a></li>
-                                                      <li><a href="sitemap.html">Site Map</a></li>
+                                                    <a href="aboutUs.php" class="list2">About Us</a>
+                                                     <li> <a href="contactUs.php">Contact Us</a></li>
+                                                     <li> <a href="locations.php">Locations</a></li>
+                                                     <li> <a href="careers.php">Careers</a></li>
+                                                      <li><a href="sitemap.php">Site Map</a></li>
                                                     </div>
                                                   </ul>
                                                   <ul>
                                                   <div class="list">
-                                                        <a href="menu.html" class="list2">Menu</a>
-                                                         <li> <a href="specials.html">Specials</a></li>
+                                                        <a href="menu.php" class="list2">Menu</a>
+                                                         <li> <a href="specials.php">Specials</a></li>
                                                         </div>
                                                       </ul>
                                                       <ul>
                                                       <div class="list">
-                                                            <a href="eventsBooking.html" class="list2">Events/Booking</a>
-                                                             <li> <a href="contest1.html">Contest</a></li>
-                                                             <li> <a href="giftCards.html">Gift Cards</a></li>
+                                                            <a href="eventsBooking.php" class="list2">Events/Booking</a>
+                                                             <li> <a href="contest1.php">Contest</a></li>
+                                                             <li> <a href="giftCards.php">Gift Cards</a></li>
                                                             </div>
                                                         </ul>
                                                     </ul>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 	<head>
         <meta charset="utf-8">
@@ -25,28 +24,28 @@
                             </header>
                 <div class="allDropDowns">
                     <div class="dropdown">
-                        <a href="index.html"><button class="dropbtn">Home</button></a>
+                        <a href="index.php"><button class="dropbtn">Home</button></a>
                         </div>
                 <div class="dropdown">
-                        <a href="html/aboutUs.html"><button class="dropbtn">About Us</button></a>
+                        <a href="html/aboutUs.php"><button class="dropbtn">About Us</button></a>
                         <div class="dropdown-content">
-                          <a href="html/contactUs.html">Contact Us</a>
-                          <a href="html/locations.html">Locations</a>
-                          <a href="html/careers.html">Careers</a>
-                          <a href="html/sitemap.html">Site Map</a>
+                          <a href="html/contactUs.php">Contact Us</a>
+                          <a href="html/locations.php">Locations</a>
+                          <a href="html/careers.php">Careers</a>
+                          <a href="html/sitemap.php">Site Map</a>
                         </div>
                       </div>
                       <div class="dropdown">
-                            <a href="html/menu.html"><button class="dropbtn">Menu</button></a>
+                            <a href="html/menu.php"><button class="dropbtn">Menu</button></a>
                             <div class="dropdown-content">
-                              <a href="html/specials.html">Specials</a>
+                              <a href="html/specials.php">Specials</a>
                             </div>
                           </div>
                           <div class="dropdown">
-                                <a href="html/eventsBooking.html"><button class="dropbtn">Events/Booking</button></a>
+                                <a href="html/eventsBooking.php"><button class="dropbtn">Events/Booking</button></a>
                                 <div class="dropdown-content">
-                                  <a href="html/contest1.html">Contest</a>
-                                  <a href="html/giftCards.html">Gift Cards</a>
+                                  <a href="html/contest1.php">Contest</a>
+                                  <a href="html/giftCards.php">Gift Cards</a>
                                 </div>
                               </div>
                             </div>
